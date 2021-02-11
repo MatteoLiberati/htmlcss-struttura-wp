@@ -69,3 +69,10 @@ header{
     background-color: #accfe6;
 }
 
+/* FOOTER */
+footer{
+    min-height: 38px;
+    margin-bottom: 20px;
+    background-color: #8801fe;
+}
+
