@@ -7,7 +7,7 @@
 
 /* MACROAREA */
 body{
-    margin: 30px 0;
+    margin: 50px 0;
 }
 
 /* GENERAL CONTAINER */
@@ -16,7 +16,17 @@ body{
     margin:auto;
 }
 
+/* HEADER */
 header{
     min-height: 77px;
     background-color: #e579e6;
+    margin-bottom: 20px;
+}
+
+/* MAIN */
+/* PICTURE SECTION */
+.picture-section{
+    min-height: 310px;
+    background-color: #e1d67a;
+    margin-bottom: 20px;
 }
